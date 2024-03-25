@@ -5,7 +5,7 @@
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
 - :cat2: Eu amo gatos, tenho dois que dão muito trabalho mas não os trocaria por nada
 - :pizza: Eu amo comida 
-- :school: Eu estudo, estou no 4 ano da facudade
+- :school: Eu sempre estudei em escola pública
 - ![](https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white)
 - ![](https://img.shields.io/badge/Burger%20King-D62300?style=for-the-badge&logo=Burger%20King&logoColor=white)
 - :church: Sou cristã graças a Deus
