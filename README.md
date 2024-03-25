@@ -13,6 +13,7 @@
 - ⚕️ Sou médica cardiologista
 - :school: Me formei em Harvard
 - 🎸 Sou musicista
+- 📝 "True courage is pursuing your dream even when everyone else says it's impossible"
 
 <!---
 Doutora8Leonel/Doutora8Leonel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
