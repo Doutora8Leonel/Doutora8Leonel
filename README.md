@@ -12,6 +12,7 @@
 - :church: Sou cristã graças a Deus
 - ⚕️ Sou médica cardiologista
 - :school: Me formei em Harvard
+- 🎸 Sou musicista
 
 <!---
 Doutora8Leonel/Doutora8Leonel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
