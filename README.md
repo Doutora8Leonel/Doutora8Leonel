@@ -1,5 +1,6 @@
 # Sobre mim
 - 👋 Ola eu sou a @Doutora8Leonel
+- :brasil: Sou brasileira
 - :+1: Meu email de contato é rebeca.monteiro.silva@escola.pr.gov.br
 - 👀 Eu estou interessada em aprender a programar em novas linguagens.
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
@@ -10,6 +11,7 @@
 - ![](https://img.shields.io/badge/Burger%20King-D62300?style=for-the-badge&logo=Burger%20King&logoColor=white)
 - :church: Sou cristã graças a Deus
 - ⚕️ Sou médica cardiologista
+- :school: Me formei em Harvard
 
 <!---
 Doutora8Leonel/Doutora8Leonel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
