@@ -12,7 +12,7 @@
 - :school: Me formei em Harvard
 - 🎸 Sou musicista
 - 📝 "True courage is pursuing your dream even when everyone else says it's impossible"
-- - ![](https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white)
+- ![](https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white)
 - ![](https://img.shields.io/badge/Burger%20King-D62300?style=for-the-badge&logo=Burger%20King&logoColor=white)
 
 <!---
